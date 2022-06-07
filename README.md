@@ -19,14 +19,14 @@ average case: O(n^2)
 
 worst case: O(n^2)
 
-4-) Array'de ortada olduğu için Average Case'e girmektedir.
+4-) Array'de ortada olduğu için 18 sayısı Average Case'e girmektedir.
 
 5-) [7,3,5,8,2,9,4,15,6]
 
-[3,7,5,8,2,9,4,15,6]
+1. adım = [3,7,5,8,2,9,4,15,6]
 
-[3,5,7,8,2,9,4,15,6]
+2.adım = [3,5,7,8,2,9,4,15,6]
 
-[3,5,7,8,2,9,4,15,6]
+3. adım = [3,5,7,8,2,9,4,15,6]
 
-[3,5,7,2,8,9,4,15,6]
+4. adım = [3,5,7,2,8,9,4,15,6]
